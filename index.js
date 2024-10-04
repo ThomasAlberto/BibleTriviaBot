@@ -11,7 +11,6 @@ const client = new Client({
 });
 
 const { token } = require('/Users/thomas/Coding projects/Discord Bot github hidden/discordBotToken.js');
-// const token = 'MTI5MTg1ODEwMzUyODE5NDEyMQ.GvEa5U.q-efxWhWfbBAiGt_jpNiQGia_YcHj7bGLuxRhY';
 
 client.on('ready', async () => {
     console.log(`Client has been logged into. ${client.user.username}`);
