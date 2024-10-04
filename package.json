@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThomasAlberto/BibleTriviaBot/issues"
   },
-  "homepage": "https://github.com/ThomasAlberto/BibleTriviaBot#readme"
+  "homepage": "https://github.com/ThomasAlberto/BibleTriviaBot#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
 }
