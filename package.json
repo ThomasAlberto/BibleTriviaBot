@@ -1,0 +1,19 @@
+{
+  "name": "bible_trivia_bot",
+  "version": "1.0.0",
+  "description": "A Discord bot to help you practice detailed Bible trivia with lots of added features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasAlberto/BibleTriviaBot.git"
+  },
+  "author": "Thomas Alberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasAlberto/BibleTriviaBot/issues"
+  },
+  "homepage": "https://github.com/ThomasAlberto/BibleTriviaBot#readme"
+}
