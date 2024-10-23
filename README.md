@@ -29,3 +29,8 @@ put beta testers. It's also where we run stress tests. Load tests, smoke tests.
 Then we do a PR to the Main branch. Again, this triggers a GitHub Actions which updates our actual deployment with all the live data, AWS services, etc.
 
 
+### Git commands
+
+When we begin programming each new feature, we want a complete copy of the project on our local workspace. To do that, start a new project in your IDE
+and run the terminal command 'git clone "github-repo.git"'
+
